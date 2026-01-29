@@ -88,16 +88,20 @@ git clone https://github.com/SHREYA-G-AMIN/University-Course-Registration-System
 ```
 ---
 
-### 🏁 Conclusion
+## 🏁 Conclusion  
 
-Winning 1st place at the TechRangers 1.1 Hackathon conducted by upGrad, this project showcases the power of:
-Clean Code
-Object-Oriented Programming
-Efficient Data Structures
+Winning **1st place** at the TechRangers 1.1 Hackathon conducted by upGrad, this project showcases the power of:
+
+- Clean Code  
+- Object-Oriented Programming  
+- Efficient Data Structures  
+
 It bridges the gap between academic theory and real-world software solutions.
 
 ---
 
-### 📅 Event
-TechRangers 1.1 Hackathon – 2025
-Conducted by upGrad
+## 📅 Event  
+
+**TechRangers 1.1 Hackathon – 2025**  
+Conducted by **upGrad**
+
