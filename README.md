@@ -8,7 +8,7 @@ This system allows students to manage academic enrollments and provides administ
 
 ### 🏆 Achievements
 
-🥇 **1st Place Winner ** 
+🥇 **1st Place Winner** 
 - TechRangers 1.1 Hackathon (by upGrad)
 
 ⭐ **Recognized for effective implementation of:**
