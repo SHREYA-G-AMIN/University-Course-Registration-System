@@ -25,7 +25,7 @@ This system allows students to manage academic enrollments and provides administ
 
 The University Course Registration System streamlines academic processes by separating user roles and managing dynamic course data efficiently.
 
-**Key Highlights:**
+**Key Highlights: **
 
 **Abstract Base Architecture**
 - Uses an abstract User class for a scalable hierarchy
